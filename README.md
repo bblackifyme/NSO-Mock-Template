@@ -1,6 +1,6 @@
 # NSO-Mock-Template
 
->This library will become deprecated should the capability to conduct dry-run outformat native be exposed via the MAAPI API.
+>This library will become deprecated should the capability to conduct dry-run out format native be exposed via the MAAPI API.
 
 
 NSO Mock Template object to use for python unittesting service templates to Native device formats
